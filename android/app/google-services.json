@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "850957186563",
+    "firebase_url": "https://medicalrecord-5b20b.firebaseio.com",
+    "project_id": "medicalrecord-5b20b",
+    "storage_bucket": "medicalrecord-5b20b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850957186563:android:dd3d30959b964aeff90036",
+        "android_client_info": {
+          "package_name": "com.example.medicalRecord_mishan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850957186563-05qmtc4hft8bpsk6h2k39mao8ruhhifm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABUgn3dhb7sIo9t-EbfSY7RAKsOxz9kmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850957186563-05qmtc4hft8bpsk6h2k39mao8ruhhifm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
