@@ -164,7 +164,7 @@ Row(
                 onPressed: () async{
                   showDatePicker(context: context,
                    initialDate: DateTime.now(), 
-                   firstDate: DateTime(2001), 
+                   firstDate: DateTime(1940), 
                    lastDate: DateTime.now()).then((date) {
                      setState(() {
                        _dateTime = date;

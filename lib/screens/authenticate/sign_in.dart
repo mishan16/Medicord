@@ -29,7 +29,7 @@ class _SignInState extends State<SignIn> {
    return loading ? Loading() : Scaffold(
      backgroundColor: Colors.white,
      appBar: AppBar(
-     backgroundColor: Colors.lightBlueAccent,
+     backgroundColor: Colors.blue,
      elevation:0.0,
      title: Text('Sign in to MediCord'),
      actions: <Widget>[
